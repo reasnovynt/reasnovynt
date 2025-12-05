@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Web Developer with a st
 - 🏆 **Laravel Specialist**: Extensive experience in developing complex web applications with the Laravel ecosystem since 2019.
 - 💡 **Full-Stack Expertise**: Proficient in both front-end and back-end development, delivering complete and seamless user experiences.
 - 🌐 **Open-Source Contributor**: Actively contributing to open-source projects and sharing knowledge with the developer community.
--  freelancing since 2024.
+- freelancing since 2020.
 
 ## 📈 GitHub Stats
 
