@@ -1,9 +1,7 @@
 # Hello, I'm Reas Vyn 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reasnovynt&label=Profile%20views&color=brightgreen&style=flat" alt="reasnovynt's profile views" />&nbsp;&nbsp;&nbsp;
-  ![GitHub followers](https://img.shields.io/github/followers/reasnovynt?style=social)&nbsp;&nbsp;&nbsp;
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-reasnovynt-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/reasnovynt)
+  <img src="https://komarev.com/ghpvc/?username=reasnovynt&label=Profile%20views&color=brightgreen&style=flat" alt="reasnovynt's profile views" />
 </p>
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Web Developer with a strong focus on creating elegant, efficient, and user-friendly web applications. With a deep love for clean code and a keen eye for detail, I specialize in building robust solutions using Laravel and modern web technologies.
