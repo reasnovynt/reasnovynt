@@ -21,16 +21,14 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Web Developer with a st
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff" alt="reasnovynt's GitHub stats" />
+---
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff" alt="reasnovynt's top languages" />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=reasnovynt&theme=synthwave&background=00000000" alt="reasnovynt's GitHub streak" />
-  <img src="https://github-trophies.vercel.app/?username=reasnovynt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="reasnovynt's GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reasnovynt&label=Profile%20views&color=brightgreen&style=flat" alt="reasnovynt's profile views" />
-</p>
+---
+<img src="https://streak-stats.demolab.com?user=reasnovynt&theme=synthwave&background=00000000" alt="reasnovynt's GitHub streak" />
+---
+<img src="https://github-trophies.vercel.app/?username=reasnovynt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="reasnovynt's GitHub trophies" />
+---
+<img src="https://komarev.com/ghpvc/?username=reasnovynt&label=Profile%20views&color=brightgreen&style=flat" alt="reasnovynt's profile views" />
 
 ## 📂 Notable Projects
 
