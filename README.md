@@ -20,10 +20,8 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Web Developer with a st
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff" alt="reasnovynt's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff" alt="reasnovynt's top languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff" alt="reasnovynt's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff" alt="reasnovynt's top languages" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=reasnovynt&theme=synthwave&background=00000000" alt="reasnovynt's GitHub streak" />
