@@ -4,10 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=reasnovynt&label=Profile%20views&color=brightgreen&style=flat" alt="reasnovynt's profile views" />
 </p>
 
-Welcome to my GitHub profile! I'm a passionate Fullstack Web Developer with a strong focus on creating elegant, efficient, and user-friendly web applications. With a deep love for clean code and a keen eye for detail, I specialize in building robust solutions using Laravel and modern web technologies.
+Welcome to my GitHub profile! ⭐ I'm a passionate Fullstack Web Developer with a strong focus on creating elegant, efficient, and user-friendly web applications. With a deep love for clean code and a keen eye for detail, I specialize in building robust solutions using Laravel and modern web technologies.
 
 
-## 🔧 Technologies & Tools
+## 💻 Technologies & Tools
 
 - **Languages**: PHP, JavaScript, TypeScript, HTML, CSS
 - **Frameworks**: Laravel, NextJS, ExpressJS, Livewire, Volt
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Web Developer with a st
 ### GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=reasnovynt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="reasnovynt's GitHub trophies" />
 
-## 📂 Notable Projects
+## 🚀 Notable Projects
 
 ### [My Personal Website](https://reasnovynt.github.io)
 My personal portfolio and blog where I share my thoughts on web development and technology.
