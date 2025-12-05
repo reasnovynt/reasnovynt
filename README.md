@@ -12,19 +12,19 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 ## 🧩 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api?username=getwristpain&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
+![Most Used Languages](https://github-readme-stats.vercel.app/api?username=reasnovynt&show_icons=true&count_private=true&hide_title=false&hide=prs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=getwristpain&layout=compact&hide_title=false&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reasnovynt&layout=compact&hide_title=false&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=ffffff)
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=getwristpain&theme=synthwave&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=reasnovynt&theme=synthwave&background=00000000)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-trophies.vercel.app/?username=getwristpain&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-trophies.vercel.app/?username=reasnovynt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Highlights
 
@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on edu
 
 Here are some of my notable projects:
 
-- **[My Personal Website](https://getwristpain.github.io)**
+- **[My Personal Website](https://reasnovynt.github.io)**
 - **[Gubukode - Handcrafted Web Solutions (Server Inactive)](https://gubukode.com)**
-- **[Internara - Internship Management System (Still Develop)](https://github.com/getwristpain/internara)**
+- **[Internara - Internship Management System (Still Develop)](https://github.com/reasnovynt/internara)**
 
 Feel free to explore my repositories to see more of my work.
 
